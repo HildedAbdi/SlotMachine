@@ -31,7 +31,7 @@ A text-based slot machine game implemented in Python. This program allows player
 - You can customize the maximum number of lines (MAX_LINES), the maximum and minimum bet amounts (MAX_BET and MIN_BET), as well as the symbol counts and values in the symbol_count and symbol_value dictionaries, respectively.
 
 
-#Acknowledgments
+# Acknowledgments
 ---------------
 
 - This program was developed as part of a Python programming exercise.
